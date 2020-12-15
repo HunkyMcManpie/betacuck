@@ -1,2 +1,0 @@
-RewriteRule ^$ /index.html [R=301,L]
-RewriteRule ^/$ /index.html [R=301,L]

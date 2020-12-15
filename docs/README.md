@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
 
-  <title>The HTML5 Herald</title>
+  <title>betacuck</title>
   <meta name="description" content="home">
   <meta name="author" content="Hunky McManpie">
 

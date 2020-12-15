@@ -14,5 +14,6 @@
 
 <body>
   <p>fuck</p>
+  <img href="media/fuck.png" />
 </body>
 </html>

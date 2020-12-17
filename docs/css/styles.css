@@ -9,6 +9,10 @@ p {
   font-size: 300%;
 }
 
+img {
+  image-resolution: snap;
+}
+
 .tits {
   vertical-align: middle;
   text-align: center;

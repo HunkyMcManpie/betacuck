@@ -1,15 +1,15 @@
 body {
   width: 600px;
-  height:800px;
+  height: 800px;
 }
 
 p {
-  color:red;
-  text-align:center;
-  font-size:300%;
+  color: red;
+  text-align: center;
+  font-size: 300%;
 }
 
 .tits {
-  vertical-align:middle;
-  text-align:center;
+  vertical-align: middle;
+  text-align: center;
 }

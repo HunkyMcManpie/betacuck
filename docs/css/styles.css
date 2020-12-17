@@ -10,7 +10,7 @@ p {
 }
 
 img {
-  image-resolution: snap;
+  max-width: 80%;
 }
 
 .tits {

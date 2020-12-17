@@ -6,8 +6,10 @@ body {
 p {
   color:red;
   text-align:center;
+  font-size:300%;
 }
 
 .tits {
   vertical-align:middle;
+  text-align:center;
 }

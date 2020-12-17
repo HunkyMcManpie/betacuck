@@ -10,7 +10,7 @@
 </head>
 
 <body>
-  <p>fuck</p>
-  <img src="media/fuck.png"></img>
+  <p style="">YER A CUCK HARRY</p>
+  <img src="media/hagrid.jpg"></img>
 </body>
 </html>

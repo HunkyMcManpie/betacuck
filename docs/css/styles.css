@@ -17,3 +17,7 @@ img {
   vertical-align: middle;
   text-align: center;
 }
+
+iframe {
+  display: none;
+}

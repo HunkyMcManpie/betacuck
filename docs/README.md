@@ -10,7 +10,9 @@
 </head>
 
 <body>
-  <p style="">YER A CUCK HARRY</p>
-  <img src="media/hagrid.jpg"></img>
+  <div class="tits">
+    <p style="">YER A CUCK HARRY</p>
+    <img src="media/hagrid.jpg"></img>
+  </div>
 </body>
 </html>

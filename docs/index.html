@@ -14,5 +14,8 @@
     <p style="">YER A CUCK HARRY</p>
     <img src="media/hagrid.jpg"></img>
   </div>
+  <audio controls autoplay>
+    <source src="jingle_bell_cock.mp3" type="audio/mpeg">
+  </audio>
 </body>
 </html>

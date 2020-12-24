@@ -25,3 +25,7 @@ iframe {
 .audio {
   visibility: hidden;
 }
+
+#mf_cookies {
+  font-size: .5rem;
+}

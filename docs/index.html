@@ -12,6 +12,7 @@
 <body>
   <div class="tits">
     <p style="">YER A CUCK HARRY</p>
+    <p>Eat a pile of dicks</p>
     <img src="media/hagrid.jpg"></img>
     <img id="mf_cookies" src="media/cookies.jpg"></img>
   </div>

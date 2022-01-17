@@ -16,7 +16,7 @@
     <img src="media/hagrid.jpg"></img>
     <img id="mf_cookies" src="media/cookies.jpg"></img>
   </div>
-  <iframe src="media/jingle_bell_cock.mp3" allow="autoplay" id="iframeAudio">
-  </iframe>
+  <!--iframe src="media/jingle_bell_cock.mp3" allow="autoplay" id="iframeAudio">
+  </iframe-->
 </body>
 </html>
